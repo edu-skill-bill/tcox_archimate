@@ -1,0 +1,6 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ArchiMate 3.1 Practical Exercises"
+    id="id-579137ac-5b1e-40d3-aa0b-80c9d7f7e69a"
+    purpose="Copyright © 2012-2020, The Open Group, All Rights Reserved. &#xA;This model is not to be reproduced or re-sold without express permission from The Open Group&#xA;&#xA;This contains solutions for five modeling exercises tailored to students who have had a thorough introduction to the ArchiMate modeling language as part of an ArchiMate Training Course.  These are a resource for use with ArchiMate Training Courses. They have no bearing on certification, as students are solely assessed by examination. Each exercise is based on the ArchiMate 3.1 Specification and the ArchiSurance Case Study.  Each exercise consists of an overview followed by explicit instructions for creating one or more views.  &#xA;&#xA;Disclaimer: The purpose of these exercises is to introduce students to ArchiMate modeling. As such, these cannot cover the complete language or all possibilities. A set of model solutions are provided, however there may also be additional ways to answer the problem. Some suggestions for how to further extend the exercises are included at the end of this document."
+    version="4.6.0"/>

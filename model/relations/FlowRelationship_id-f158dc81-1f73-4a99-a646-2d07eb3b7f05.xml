@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Rule Sets"
+    id="id-f158dc81-1f73-4a99-a646-2d07eb3b7f05">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-08f055e0-d7aa-4d7e-9b52-9bc46ce76079.xml#id-08f055e0-d7aa-4d7e-9b52-9bc46ce76079"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-122aac48-4ff9-4659-a33c-7ae5bb7fc373.xml#id-122aac48-4ff9-4659-a33c-7ae5bb7fc373"/>
+</archimate:FlowRelationship>

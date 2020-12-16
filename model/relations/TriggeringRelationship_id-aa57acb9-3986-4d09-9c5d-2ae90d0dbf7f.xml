@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Favorable review"
+    id="id-aa57acb9-3986-4d09-9c5d-2ae90d0dbf7f">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-d645af5b-8dfc-482c-b45f-94a8f3f6555c.xml#id-d645af5b-8dfc-482c-b45f-94a8f3f6555c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-d94bac48-62ff-40a0-9bb4-7b7bf197b67d.xml#id-d94bac48-62ff-40a0-9bb4-7b7bf197b67d"/>
+</archimate:TriggeringRelationship>

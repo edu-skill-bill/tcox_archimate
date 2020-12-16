@@ -1,0 +1,22 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Default View"
+    id="id-488a70ba-6652-42fd-b752-e515473f5a8e"
+    documentation="ArchiMate® Certification for People: Practical Exercises&#xA;&#xA;April 2020, Version 3.07&#xA;&#xA;© Copyright 2012-2020, The Open Group&#xA;All rights reserved.&#xA;&#xA;&#xA;Note: Modifications to the Practical Exercises are only permitted with prior approval and copies must be provided to The Open Group, including assignment of copyright to the modifications to The Open Group.&#xA;&#xA;&#xA;Introduction&#xA;This document contains five modeling exercises tailored to students who have had a thorough introduction to the ArchiMate modeling language as part of an ArchiMate Training Course.  These are a resource for use with ArchiMate 3.0 Training Courses. They have no bearing on certification, as students are solely assessed by examination. Each exercise is based on the ArchiMate 3.0 Specification and the ArchiSurance Case Study.  Each exercise consists of an overview followed by explicit instructions for creating one or more views.  &#xA;&#xA;We recommend that students complete at least two exercises during a Training Course. After completion of the exercise the trainer should explain a solution for the exercises as part of the course. We also recommend that a course include a complete walkthrough of at least one other of the practical exercises. &#xA;Each exercise stresses a different set of ArchiMate language layers and aspects.  Trainers should use their judgment in selecting the most appropriate exercises for their students.&#xA;&#xA;Disclaimer: The purpose of these exercises is to introduce students to ArchiMate modeling. As such, these cannot cover the complete language or all possibilities. A set of model solutions are provided, however there may also be additional ways to answer the problem. Some suggestions for how to further extend the exercises are included at the end of this document.&#xA;&#xA;Extension Exercises&#xA;&#xA;The following are some suggestions for how to extend the exercises further.&#xA;In 2b: Layered view, model the two data centers as facilities using the physical elements.&#xA;In 4a: Technology Landscape, model a pair of load balancing clusters in different places that each use multiple DNS services. &#xA;&#xA;Strategy Layer Extension Exercise&#xA;&#xA;To cover more of the strategy layer, decompose the Customer Care capability in part 5b into three assigned resources:  People, Processes, and Technology.  People could include the Customer Service and QA teams as business actors.  Processes could include Call Handling and Workforce Optimization, and Technology could include a new Customer Portal.   &#xA;&#xA;Implementation &amp; Migration Extension Exercise&#xA;&#xA;To add an Implementation and Migration Diagram, model a simple &quot;waterfall&quot; design process consisting of work packages and realized plateaus.  Begin with a Project Start Event that triggers a series of work packages, each of which realizes a plateau:&#xA;1. Planning realizes Project Plan in Place, which could aggregate a Project Plan business object.&#xA;2.  Requirements realizes Requirements Documented, which could aggregate a Requirements Specification business object.&#xA;3.  Design realizes solution Designed, which could aggregate a System Design business object.&#xA;4.  Follow a similar pattern for Development, QA and Release.  The plateaus in these stages could optionally aggregate application services and/or components.">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8be8e072-9460-43cb-92d1-793e68211cb7"
+      font="1|Arial|15.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial"
+      fontColor="#000000"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="This is an empty view. This note keeps the validator happy!">
+    <bounds
+        x="392"
+        y="411"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>

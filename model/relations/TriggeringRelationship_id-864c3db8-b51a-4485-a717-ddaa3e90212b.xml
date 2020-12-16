@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="No-Go decision"
+    id="id-864c3db8-b51a-4485-a717-ddaa3e90212b">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-9789e885-e7a9-48ec-87f4-633e8ca51c7b.xml#id-9789e885-e7a9-48ec-87f4-633e8ca51c7b"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-9f405bf9-3f06-40f4-8824-1965aa20b91c.xml#id-9f405bf9-3f06-40f4-8824-1965aa20b91c"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RMAs"
+    id="id-75f303c9-523a-47c7-a432-9c9cece6e912">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-3807ce9d-6c68-47a3-8138-120f1c032e96.xml#id-3807ce9d-6c68-47a3-8138-120f1c032e96"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-918e2534-705a-48d5-9f30-2e4e3cc84587.xml#id-918e2534-705a-48d5-9f30-2e4e3cc84587"/>
+</archimate:FlowRelationship>

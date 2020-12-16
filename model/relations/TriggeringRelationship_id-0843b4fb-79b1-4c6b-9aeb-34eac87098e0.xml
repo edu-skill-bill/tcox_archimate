@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Unfavorable review"
+    id="id-0843b4fb-79b1-4c6b-9aeb-34eac87098e0">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-d645af5b-8dfc-482c-b45f-94a8f3f6555c.xml#id-d645af5b-8dfc-482c-b45f-94a8f3f6555c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-9f405bf9-3f06-40f4-8824-1965aa20b91c.xml#id-9f405bf9-3f06-40f4-8824-1965aa20b91c"/>
+</archimate:TriggeringRelationship>

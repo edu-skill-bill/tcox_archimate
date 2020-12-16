@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Go decision"
+    id="id-56dfe6cf-cdc5-479a-a741-6da1db8db82c">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_id-9789e885-e7a9-48ec-87f4-633e8ca51c7b.xml#id-9789e885-e7a9-48ec-87f4-633e8ca51c7b"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f454568c-e2d3-4273-9945-f6a516c8bd2c.xml#id-f454568c-e2d3-4273-9945-f6a516c8bd2c"/>
+</archimate:TriggeringRelationship>
